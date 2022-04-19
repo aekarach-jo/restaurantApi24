@@ -1174,19 +1174,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Darkzone\\.nuget\\packages\\": {}
+    "C:\\Users\\cnos\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Darkzone\\Desktop\\EndProject\\ProjectCafeApi\\ProjectCafeApi.csproj",
+      "projectUniqueName": "D:\\project\\flook\\ProjectCafeApi\\ProjectCafeApi.csproj",
       "projectName": "ProjectCafeApi",
-      "projectPath": "C:\\Users\\Darkzone\\Desktop\\EndProject\\ProjectCafeApi\\ProjectCafeApi.csproj",
-      "packagesPath": "C:\\Users\\Darkzone\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Darkzone\\Desktop\\EndProject\\ProjectCafeApi\\obj\\",
+      "projectPath": "D:\\project\\flook\\ProjectCafeApi\\ProjectCafeApi.csproj",
+      "packagesPath": "C:\\Users\\cnos\\.nuget\\packages\\",
+      "outputPath": "D:\\project\\flook\\ProjectCafeApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Darkzone\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\cnos\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -1231,6 +1231,20 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
